@@ -212,7 +212,7 @@ class Diastolic extends StatelessWidget {
         keyboardType: TextInputType.number,
         decoration: const InputDecoration(
           border: OutlineInputBorder(),
-          labelText: '• Diastolic blood pressure',
+          labelText: '• Diastolic pressure',
         ),
       ),
     );
